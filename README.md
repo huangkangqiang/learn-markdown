@@ -1,9 +1,9 @@
-#Markdown入门#
+#Markdown入门  
 
 声明：仅作为个人学习笔记，以下为原作链接：  
 [LearnShare：Learning-Markdown (Markdown 入门参考)](https://github.com/LearnShare/Learning-Markdown/tree/v2)
 
-##1. 关于Markdown##
+##1. 关于Markdown  
 
 ###1.1 介绍 
 
